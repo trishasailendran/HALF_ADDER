@@ -43,6 +43,8 @@ STEP:12
 On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 # Program
 ```
+Developed By :TRISHA S
+Register Number:212222060280
 module half_adder(a,b,sum,carry);
        input a,b;
        output sum,carry;
