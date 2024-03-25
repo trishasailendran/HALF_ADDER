@@ -2,7 +2,7 @@
 # Aim
 To simulate and synthesis Half adder using Xilinx ISE.
 
-# Apparatus required
+# Software required
 Xilinx 14.7 Spartan6 FPGA
 
 # Procedure
