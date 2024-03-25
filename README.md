@@ -1,11 +1,11 @@
 # HALF_ADDER
-# AIM
+# Aim
 To simulate and synthesis Half adder using Xilinx ISE.
 
-# APPARATUS REQUIRED
+# Apparatus required
 Xilinx 14.7 Spartan6 FPGA
 
-# PROCEDURE
+# Procedure
 STEP:1
 Start the Xilinx navigator, Select and Name the New project.
 
